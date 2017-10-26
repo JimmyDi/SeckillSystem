@@ -12,3 +12,533 @@
 2017-10-25 16:40:27,983 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-10-25 16:40:27,985 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-10-25 16:40:27,986 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 17:00:45,349 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:00:45,350 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-25 17:00:45,351 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:00:45,352 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 17:01:49,485 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:01:49,487 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-25 17:01:49,489 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:01:49,490 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 17:01:50,528 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:01:50,529 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-25 17:01:50,531 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:01:50,532 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 17:04:41,031 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:04:41,033 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-25 17:04:41,035 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:04:41,036 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 17:05:46,460 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:05:46,461 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-25 17:05:46,464 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:05:46,468 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 17:06:24,460 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:06:24,463 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-25 17:06:24,466 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:06:24,466 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 17:10:35,392 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:10:35,394 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-25 17:10:35,397 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:10:35,397 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 17:10:42,469 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:10:42,470 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-25 17:10:42,475 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:10:42,476 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 17:11:32,987 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:11:32,988 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-25 17:11:32,990 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:11:32,990 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 17:11:40,614 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:11:40,616 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-25 17:11:40,618 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:11:40,619 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 17:11:56,344 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:11:56,345 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-25 17:11:56,347 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:11:56,348 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 17:13:22,935 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:13:22,937 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-25 17:13:22,939 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:13:22,940 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 17:16:02,295 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:16:02,297 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-25 17:16:02,306 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:16:02,310 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 17:17:58,883 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:17:58,884 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-25 17:17:58,890 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 17:17:58,891 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 19:59:39,309 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 19:59:39,310 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-25 19:59:39,312 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 19:59:39,313 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 20:00:01,463 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:00:01,464 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-25 20:00:01,468 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:00:01,468 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 20:01:35,680 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:01:35,681 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-25 20:01:35,682 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:01:35,683 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 20:01:41,704 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:01:41,705 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-25 20:01:41,707 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:01:41,709 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 20:04:28,635 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:04:28,636 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-25 20:04:28,638 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:04:28,638 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 20:07:11,393 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:07:11,395 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-25 20:07:11,397 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:07:11,397 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 20:17:35,933 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:17:35,936 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-25 20:17:35,940 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:17:35,941 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 20:17:49,088 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:17:49,089 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-25 20:17:49,094 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:17:49,094 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 20:22:04,748 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:22:04,748 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-25 20:22:04,750 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:22:04,751 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 20:22:17,211 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:22:17,212 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-25 20:22:17,217 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:22:17,217 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 20:27:42,917 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:27:42,918 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-25 20:27:42,921 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:27:42,922 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 20:40:14,926 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:40:14,927 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-25 20:40:14,932 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:40:14,934 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 20:46:26,934 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:46:26,935 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-25 20:46:26,942 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:46:26,943 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 20:47:40,901 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:47:40,902 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-25 20:47:40,904 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:47:40,905 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 20:52:41,444 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:52:41,444 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-25 20:52:41,445 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:52:41,446 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 20:56:21,750 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:56:21,751 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-25 20:56:21,754 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:56:21,755 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-25 20:56:29,355 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:56:29,357 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-25 20:56:29,358 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-25 20:56:29,360 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 10:29:51,832 [Worker-585] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 10:29:51,836 [Worker-585] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-26 10:29:51,840 [Worker-585] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 10:29:51,840 [Worker-585] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 10:30:27,425 [Worker-593] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 10:30:27,428 [Worker-593] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 10:30:27,429 [Worker-593] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 10:30:27,430 [Worker-593] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 10:35:29,276 [Worker-597] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 10:35:29,278 [Worker-597] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-26 10:35:29,279 [Worker-597] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 10:35:29,280 [Worker-597] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 10:37:58,403 [Worker-592] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 10:37:58,406 [Worker-592] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-26 10:37:58,408 [Worker-592] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 10:37:58,409 [Worker-592] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 10:54:07,342 [Worker-608] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 10:54:07,344 [Worker-608] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-26 10:54:07,347 [Worker-608] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 10:54:07,348 [Worker-608] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 10:55:19,945 [Worker-609] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 10:55:19,947 [Worker-609] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-26 10:55:19,949 [Worker-609] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 10:55:19,949 [Worker-609] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 11:05:19,611 [Worker-616] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:05:19,613 [Worker-616] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-26 11:05:19,615 [Worker-616] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:05:19,616 [Worker-616] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 11:16:09,162 [Worker-623] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.soecode.ssm:ssm:0.0.1-SNAPSHOT @ /Users/di/SpringMVC-Spring-Mybatis/ssm/pom.xml.
+2017-10-26 11:16:09,999 [Worker-623] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:16:10,002 [Worker-623] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 11:16:10,005 [Worker-623] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:16:10,005 [Worker-623] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 11:16:10,006 [Worker-623] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ssm
+2017-10-26 11:16:10,007 [Worker-623] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ssm
+2017-10-26 11:16:10,013 [Worker-623] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:16:33,779 [Worker-627] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:16:33,780 [Worker-627] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-26 11:16:33,797 [Worker-627] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:16:33,799 [Worker-627] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 11:18:44,457 [Worker-627] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:18:44,458 [Worker-627] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-26 11:18:44,462 [Worker-627] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:18:44,463 [Worker-627] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 11:19:09,212 [Worker-623] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.soecode.ssm:ssm:0.0.1-SNAPSHOT @ /Users/di/SpringMVC-Spring-Mybatis/ssm/pom.xml.
+2017-10-26 11:19:09,866 [Worker-623] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:19:09,868 [Worker-623] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 11:19:09,870 [Worker-623] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:19:09,870 [Worker-623] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 11:19:09,871 [Worker-623] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ssm
+2017-10-26 11:19:09,871 [Worker-623] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ssm
+2017-10-26 11:19:09,875 [Worker-623] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:21:28,478 [Worker-625] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:21:28,492 [Worker-625] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-26 11:21:28,569 [Worker-625] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:21:28,570 [Worker-625] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 11:21:29,588 [Worker-630] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:21:29,591 [Worker-630] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-26 11:21:29,592 [Worker-630] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:21:29,593 [Worker-630] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 11:22:14,918 [Worker-626] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:22:14,920 [Worker-626] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-26 11:22:14,949 [Worker-626] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:22:14,950 [Worker-626] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 11:22:15,970 [Worker-625] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:22:15,971 [Worker-625] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-26 11:22:15,972 [Worker-625] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:22:15,972 [Worker-625] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 11:33:11,703 [Worker-638] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:33:11,704 [Worker-638] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 11:33:11,705 [Worker-638] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:33:11,706 [Worker-638] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 11:33:20,520 [Worker-633] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:33:20,521 [Worker-633] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-26 11:33:20,526 [Worker-633] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 11:33:20,527 [Worker-633] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 12:22:09,519 [Worker-659] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 12:22:09,520 [Worker-659] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 12:22:09,523 [Worker-659] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 12:22:09,523 [Worker-659] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 12:25:55,376 [Worker-662] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.soecode.ssm:ssm:0.0.1-SNAPSHOT @ /Users/di/SpringMVC-Spring-Mybatis/ssm/pom.xml.
+2017-10-26 12:25:56,020 [Worker-662] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 12:25:56,022 [Worker-662] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 12:25:56,024 [Worker-662] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 12:25:56,025 [Worker-662] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 12:25:56,027 [Worker-662] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ssm
+2017-10-26 12:25:56,027 [Worker-662] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ssm
+2017-10-26 12:25:56,032 [Worker-662] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:12:47,006 [Worker-667] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.soecode.ssm:ssm:0.0.1-SNAPSHOT @ /Users/di/SpringMVC-Spring-Mybatis/ssm/pom.xml.
+2017-10-26 15:12:47,722 [Worker-667] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:12:47,724 [Worker-667] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 15:12:47,726 [Worker-667] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:12:47,727 [Worker-667] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 15:12:47,727 [Worker-667] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ssm
+2017-10-26 15:12:47,727 [Worker-667] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ssm
+2017-10-26 15:12:47,731 [Worker-667] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:13:08,964 [Worker-667] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.soecode.ssm:ssm:0.0.1-SNAPSHOT @ /Users/di/SpringMVC-Spring-Mybatis/ssm/pom.xml.
+2017-10-26 15:13:09,544 [Worker-667] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 15:13:09,552 [Worker-667] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:13:09,554 [Worker-667] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 15:13:09,555 [Worker-667] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 15:13:09,557 [Worker-667] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:13:09,558 [Worker-667] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 15:13:09,558 [Worker-667] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ssm
+2017-10-26 15:13:09,559 [Worker-667] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ssm
+2017-10-26 15:13:09,565 [Worker-667] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:15:47,449 [Worker-671] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.soecode.ssm:ssm:0.0.1-SNAPSHOT @ /Users/di/SpringMVC-Spring-Mybatis/ssm/pom.xml.
+2017-10-26 15:15:48,076 [Worker-671] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 15:15:48,089 [Worker-671] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:15:48,097 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 15:15:48,098 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 15:15:48,100 [Worker-671] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:15:48,101 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 15:15:48,101 [Worker-671] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ssm
+2017-10-26 15:15:48,101 [Worker-671] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ssm
+2017-10-26 15:15:48,108 [Worker-671] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:17:45,038 [Worker-668] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.soecode.ssm:ssm:0.0.1-SNAPSHOT @ /Users/di/SpringMVC-Spring-Mybatis/ssm/pom.xml.
+2017-10-26 15:17:45,660 [Worker-668] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 15:17:45,676 [Worker-668] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:17:45,679 [Worker-668] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 15:17:45,681 [Worker-668] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:17:45,682 [Worker-668] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 15:17:45,682 [Worker-668] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ssm
+2017-10-26 15:17:45,683 [Worker-668] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ssm
+2017-10-26 15:17:45,689 [Worker-668] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:26:26,306 [Worker-678] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 15:26:26,317 [Worker-678] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:26:26,323 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 15:26:26,326 [Worker-678] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:26:26,327 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 15:26:32,152 [Worker-678] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.soecode.ssm:ssm:0.0.1-SNAPSHOT @ /Users/di/SpringMVC-Spring-Mybatis/ssm/pom.xml.
+2017-10-26 15:26:32,685 [Worker-678] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 15:26:32,697 [Worker-678] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:26:32,700 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 15:26:32,700 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 15:26:32,703 [Worker-678] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:26:32,704 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 15:26:32,704 [Worker-678] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ssm
+2017-10-26 15:26:32,704 [Worker-678] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ssm
+2017-10-26 15:26:32,711 [Worker-678] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:33:35,022 [Worker-682] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 15:33:35,030 [Worker-682] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:33:35,033 [Worker-682] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 15:33:35,034 [Worker-682] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-26 15:33:35,044 [Worker-682] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:33:35,045 [Worker-682] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 15:34:14,995 [Worker-678] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 15:34:14,995 [Worker-678] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:34:14,996 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 15:34:14,997 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-26 15:34:14,998 [Worker-678] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:34:14,999 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 15:37:32,647 [Worker-685] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 15:37:32,648 [Worker-685] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:37:32,649 [Worker-685] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 15:37:32,651 [Worker-685] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-26 15:37:32,652 [Worker-685] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:37:32,653 [Worker-685] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 15:37:56,581 [Worker-685] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 15:37:56,582 [Worker-685] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:37:56,583 [Worker-685] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 15:37:56,584 [Worker-685] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-26 15:37:56,585 [Worker-685] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:37:56,586 [Worker-685] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 15:38:41,539 [Worker-686] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 15:38:41,542 [Worker-686] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:38:41,545 [Worker-686] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 15:38:41,546 [Worker-686] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-26 15:38:41,552 [Worker-686] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:38:41,553 [Worker-686] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 15:47:24,848 [Worker-695] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 15:47:24,848 [Worker-695] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:47:24,849 [Worker-695] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 15:47:24,849 [Worker-695] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-26 15:47:24,850 [Worker-695] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 15:47:24,850 [Worker-695] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 16:04:41,700 [Worker-704] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 16:04:41,701 [Worker-704] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:04:41,703 [Worker-704] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 16:04:41,747 [Worker-704] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 16:04:41,749 [Worker-704] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:04:41,750 [Worker-704] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 16:05:45,528 [Worker-702] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 16:05:45,529 [Worker-702] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:05:45,531 [Worker-702] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 16:05:45,538 [Worker-702] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 16:05:45,554 [Worker-702] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:05:45,555 [Worker-702] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 16:07:23,537 [Worker-705] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 16:07:23,537 [Worker-705] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:07:23,538 [Worker-705] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 16:07:23,542 [Worker-705] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 16:07:23,545 [Worker-705] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:07:23,546 [Worker-705] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 16:07:24,568 [Worker-704] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 16:07:24,569 [Worker-704] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:07:24,570 [Worker-704] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 16:07:24,573 [Worker-704] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 16:07:24,573 [Worker-704] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:07:24,574 [Worker-704] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 16:14:06,544 [Worker-710] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 16:14:06,544 [Worker-710] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:14:06,545 [Worker-710] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 16:14:06,546 [Worker-710] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-26 16:14:06,547 [Worker-710] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:14:06,548 [Worker-710] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 16:21:58,026 [Worker-713] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mybatis/mybatis/3.3.0/mybatis-3.3.0-sources.jar
+2017-10-26 16:21:58,156 [Worker-713] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mybatis/mybatis/3.3.0/mybatis-3.3.0-sources.jar
+2017-10-26 16:21:58,185 [Worker-713] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mybatis:mybatis:3.3.0
+2017-10-26 16:21:58,380 [Worker-715] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 16:21:58,381 [Worker-715] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:21:58,383 [Worker-715] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 16:21:58,390 [Worker-715] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 16:21:58,392 [Worker-715] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:21:58,393 [Worker-715] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 16:22:08,963 [Worker-715] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mybatis/mybatis-spring/1.2.3/mybatis-spring-1.2.3-sources.jar
+2017-10-26 16:22:09,029 [Worker-715] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mybatis/mybatis-spring/1.2.3/mybatis-spring-1.2.3-sources.jar
+2017-10-26 16:22:09,051 [Worker-715] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mybatis:mybatis-spring:1.2.3
+2017-10-26 16:22:09,257 [Worker-713] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 16:22:09,258 [Worker-713] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:22:09,259 [Worker-713] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 16:22:09,262 [Worker-713] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 16:22:09,264 [Worker-713] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:22:09,264 [Worker-713] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 16:25:58,608 [Worker-719] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 16:25:58,608 [Worker-719] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:25:58,609 [Worker-719] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 16:25:58,616 [Worker-719] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 16:25:58,619 [Worker-719] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:25:58,619 [Worker-719] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 16:26:24,033 [Worker-719] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 16:26:24,034 [Worker-719] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:26:24,035 [Worker-719] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 16:26:24,043 [Worker-719] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 16:26:24,050 [Worker-719] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:26:24,056 [Worker-719] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 16:28:25,297 [Worker-720] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.soecode.ssm:ssm:0.0.1-SNAPSHOT @ /Users/di/SpringMVC-Spring-Mybatis/ssm/pom.xml.
+2017-10-26 16:28:25,462 [Worker-720] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.2/mysql-connector-java-5.1.2.pom
+2017-10-26 16:28:25,499 [Worker-720] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.2/mysql-connector-java-5.1.2.pom
+2017-10-26 16:28:25,595 [Worker-720] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.2/mysql-connector-java-5.1.2.jar
+2017-10-26 16:28:25,829 [Worker-720] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.2/mysql-connector-java-5.1.2.jar
+2017-10-26 16:28:26,247 [Worker-720] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 16:28:26,259 [Worker-720] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:28:26,262 [Worker-720] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 16:28:26,263 [Worker-720] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 16:28:26,264 [Worker-720] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:28:26,267 [Worker-720] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 16:28:26,267 [Worker-720] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ssm
+2017-10-26 16:28:26,267 [Worker-720] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ssm
+2017-10-26 16:28:26,272 [Worker-720] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:28:27,531 [Worker-720] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 16:28:27,539 [Worker-720] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:28:27,541 [Worker-720] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 16:28:27,567 [Worker-720] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 16:28:27,570 [Worker-720] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:28:27,571 [Worker-720] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 16:29:19,210 [Worker-713] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 16:29:19,211 [Worker-713] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:29:19,212 [Worker-713] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 16:29:19,219 [Worker-713] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 16:29:19,220 [Worker-713] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:29:19,221 [Worker-713] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 16:29:20,240 [Worker-724] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 16:29:20,240 [Worker-724] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:29:20,242 [Worker-724] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 16:29:20,245 [Worker-724] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 16:29:20,246 [Worker-724] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:29:20,246 [Worker-724] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 16:44:54,755 [Worker-735] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 16:44:54,756 [Worker-735] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:44:54,759 [Worker-735] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 16:44:54,762 [Worker-735] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 16:44:54,763 [Worker-735] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:44:54,764 [Worker-735] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 16:45:34,686 [Worker-731] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 16:45:34,687 [Worker-731] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:45:34,688 [Worker-731] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 16:45:34,692 [Worker-731] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 16:45:34,694 [Worker-731] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:45:34,694 [Worker-731] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 16:46:32,655 [Worker-736] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 16:46:32,656 [Worker-736] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:46:32,657 [Worker-736] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 16:46:32,662 [Worker-736] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 16:46:32,663 [Worker-736] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:46:32,664 [Worker-736] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 16:47:29,305 [Worker-736] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 16:47:29,306 [Worker-736] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:47:29,307 [Worker-736] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 16:47:29,311 [Worker-736] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 16:47:29,312 [Worker-736] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:47:29,313 [Worker-736] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 16:51:02,431 [Worker-731] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 16:51:02,432 [Worker-731] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:51:02,433 [Worker-731] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 16:51:02,441 [Worker-731] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 16:51:02,445 [Worker-731] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:51:02,445 [Worker-731] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 16:57:56,650 [Worker-744] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 16:57:56,651 [Worker-744] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:57:56,653 [Worker-744] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 16:57:56,657 [Worker-744] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 16:57:56,658 [Worker-744] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 16:57:56,659 [Worker-744] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 17:03:05,914 [Worker-750] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 17:03:05,915 [Worker-750] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:03:05,916 [Worker-750] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 17:03:05,921 [Worker-750] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 17:03:05,922 [Worker-750] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:03:05,923 [Worker-750] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 17:04:03,013 [Worker-748] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 17:04:03,013 [Worker-748] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:04:03,014 [Worker-748] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-26 17:04:03,015 [Worker-748] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 17:04:03,017 [Worker-748] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:04:03,017 [Worker-748] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 17:04:34,148 [Worker-749] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 17:04:34,149 [Worker-749] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:04:34,150 [Worker-749] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 17:04:34,156 [Worker-749] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 17:04:34,157 [Worker-749] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:04:34,158 [Worker-749] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 17:04:56,834 [Worker-750] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 17:04:56,835 [Worker-750] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:04:56,836 [Worker-750] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 17:04:56,849 [Worker-750] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 17:04:56,851 [Worker-750] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:04:56,851 [Worker-750] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 17:06:23,001 [Worker-731] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 17:06:23,002 [Worker-731] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:06:23,003 [Worker-731] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 17:06:23,004 [Worker-731] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 17:06:23,006 [Worker-731] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:06:23,006 [Worker-731] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 17:06:52,806 [Worker-753] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 17:06:52,806 [Worker-753] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:06:52,807 [Worker-753] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 17:06:52,807 [Worker-753] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 17:06:52,808 [Worker-753] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:06:52,808 [Worker-753] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 17:10:17,567 [Worker-753] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 17:10:17,568 [Worker-753] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:10:17,569 [Worker-753] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 17:10:17,573 [Worker-753] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 17:10:17,576 [Worker-753] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:10:17,577 [Worker-753] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 17:10:39,485 [Worker-756] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 17:10:39,486 [Worker-756] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:10:39,488 [Worker-756] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 17:10:39,493 [Worker-756] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 17:10:39,497 [Worker-756] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:10:39,498 [Worker-756] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 17:15:36,130 [Worker-756] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 17:15:36,137 [Worker-756] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:15:36,145 [Worker-756] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 17:15:36,154 [Worker-756] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 17:15:36,160 [Worker-756] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:15:36,161 [Worker-756] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 17:15:40,727 [Worker-755] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 17:15:40,727 [Worker-755] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:15:40,728 [Worker-755] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 17:15:40,731 [Worker-755] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 17:15:40,732 [Worker-755] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:15:40,733 [Worker-755] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 17:16:13,692 [Worker-750] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 17:16:13,693 [Worker-750] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:16:13,694 [Worker-750] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 17:16:13,698 [Worker-750] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 17:16:13,699 [Worker-750] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:16:13,700 [Worker-750] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 17:16:54,622 [Worker-758] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 17:16:54,622 [Worker-758] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:16:54,623 [Worker-758] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 17:16:54,627 [Worker-758] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 17:16:54,628 [Worker-758] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:16:54,629 [Worker-758] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 17:18:12,535 [Worker-755] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 17:18:12,536 [Worker-755] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:18:12,536 [Worker-755] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 17:18:12,540 [Worker-755] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 17:18:12,541 [Worker-755] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:18:12,542 [Worker-755] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 17:21:00,335 [Worker-758] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 17:21:00,335 [Worker-758] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:21:00,336 [Worker-758] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-26 17:21:00,337 [Worker-758] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 17:21:00,339 [Worker-758] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:21:00,339 [Worker-758] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 17:21:18,661 [Worker-758] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 17:21:18,662 [Worker-758] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:21:18,663 [Worker-758] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-26 17:21:18,664 [Worker-758] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 17:21:18,667 [Worker-758] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:21:18,668 [Worker-758] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 17:22:11,199 [Worker-750] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 17:22:11,200 [Worker-750] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:22:11,201 [Worker-750] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-26 17:22:11,202 [Worker-750] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-26 17:22:11,205 [Worker-750] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:22:11,205 [Worker-750] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources
+2017-10-26 17:22:43,202 [Worker-759] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+2017-10-26 17:22:43,203 [Worker-759] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:22:43,204 [Worker-759] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-26 17:22:43,207 [Worker-759] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-26 17:22:43,208 [Worker-759] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-26 17:22:43,208 [Worker-759] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/di/SpringMVC-Spring-Mybatis/ssm/src/test/resources

@@ -27,7 +27,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.37</version>
+			<version>5.1.2</version>
 			<scope>runtime</scope>
 		</dependency>
 		<dependency>
@@ -141,6 +141,34 @@
 		</dependency>
 	</dependencies>
 	<build>
+	
+	
+	
+	<resources>
+	<!-- 对resources目录进行过滤，主要是设置bin目录里的内容 -->
+	<resource>
+		<directory>${project.basedir}/src/main/resources</directory>
+		<filtering>true</filtering>
+		<excludes>
+			<exclude>mybatis-config.xml</exclude>
+			<exclude>jdbc.properties</exclude>
+			<exclude>logback.xml</exclude>
+		</excludes>
+	</resource>
+	<!-- 不过滤resources/mybatis目录，否则容易破坏mybatis的一些xml配置 -->
+	<resource>
+		<directory>${project.basedir}/src/main/resources</directory>
+		<filtering>false</filtering>
+		<includes>
+			<include>mybatis-config.xml</include>
+			<include>jdbc.properties</include>
+			<include>logback.xml</include>
+		</includes>
+	</resource>
+</resources>
+
+
+
 		<finalName>ssm</finalName>
 		<plugins>
 			<plugin>
