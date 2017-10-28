@@ -6,7 +6,7 @@
 	http://www.springframework.org/schema/context
 	http://www.springframework.org/schema/context/spring-context.xsd">
 	<!-- 配置整合mybatis过程 -->
-	<!-- 1.配置数据库相关参数properties的属性：http://github.com/liyifeng1994/ssm -->
+	<!-- 1.配置数据库相关参数properties的属性：https://github.com/JimmyDi/SpringMVC-Spring-Mybatis -->
 	<context:property-placeholder location="classpath:jdbc.properties" />
 
 	<!-- 2.数据库连接池 -->
@@ -36,7 +36,7 @@
 		<!-- 配置MyBaties全局配置文件:mybatis-config.xml -->
 		<property name="configLocation" value="classpath:mybatis-config.xml" />
 		<!-- 扫描entity包 使用别名 -->
-		<property name="typeAliasesPackage" value="com.soecode.lyf.entity" />
+		<property name="typeAliasesPackage" value="com.di.entity" />
 		<!-- 扫描sql配置文件:mapper需要的xml文件 -->
 		<property name="mapperLocations" value="classpath:mapper/*.xml" />
 	</bean>
@@ -46,6 +46,6 @@
 		<!-- 注入sqlSessionFactory -->
 		<property name="sqlSessionFactoryBeanName" value="sqlSessionFactory" />
 		<!-- 给出需要扫描Dao接口包 -->
-		<property name="basePackage" value="com.soecode.lyf.dao" />
+		<property name="basePackage" value="com.di.dao" />
 	</bean>
 </beans>
