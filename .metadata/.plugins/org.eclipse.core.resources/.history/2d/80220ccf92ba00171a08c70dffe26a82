@@ -1,0 +1,17 @@
+package com.soecode.lyf.dao;
+
+import org.junit.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.soecode.lyf.BaseTest;
+import com.soecode.lyf.entity.Appointment;
+
+public class AppointmentDaoTest extends BaseTest{
+	@Autowired
+	private AppointmentDao appointmentDao;
+	
+	@Test
+	public void testInsertAppointment() throws Exception{
+		
+	}
+}

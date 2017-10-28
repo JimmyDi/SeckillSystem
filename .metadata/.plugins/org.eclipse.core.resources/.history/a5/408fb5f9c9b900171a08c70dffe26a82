@@ -1,0 +1,22 @@
+package com.soecode.lyf.entity;
+import java.util.Date;
+
+public class Appointment{
+	private long bookId;
+	private long studentId;
+	private Date appointTime;
+	private Book book;
+	
+	public void setBookId(long bookId){
+		this.bookId=bookId;
+	}
+	public long getBookId(){
+		return this.bookId;
+	}
+	public void setStudentId(long studentId){
+		this.studentId=studentId;
+	}
+	public long getStudentId(){
+		return studentId;
+	}
+}
