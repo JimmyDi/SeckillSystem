@@ -1,0 +1,10 @@
+package com.di.pojo;
+import com.di.pojo.ItemsCustom;
+
+public class ItemsQueryVo{
+	private ItemsCustom itemsCustom;
+	
+	public ItemsCustom getItemsCustom(){
+		
+	}
+}

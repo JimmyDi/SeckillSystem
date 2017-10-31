@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="AppointmentDaoTest" project="ssm" tests="2" started="2" failures="0" errors="0" ignored="0">
-  <testsuite name="com.soecode.lyf.dao.AppointmentDaoTest" time="0.55">
-    <testcase name="testInsertAppointment" classname="com.soecode.lyf.dao.AppointmentDaoTest" time="0.507"/>
-    <testcase name="testQueryByKeyWithBook" classname="com.soecode.lyf.dao.AppointmentDaoTest" time="0.043"/>
-  </testsuite>
-</testrun>
