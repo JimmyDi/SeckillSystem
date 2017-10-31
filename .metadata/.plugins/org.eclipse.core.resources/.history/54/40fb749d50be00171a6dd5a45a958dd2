@@ -1,0 +1,18 @@
+package com.di.dao;
+
+import java.util.Date;
+
+import org.junit.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.di.BaseTest;
+
+public class SeckillDaoTest extends BaseTest{
+	@Autowired
+	private SeckillDao seckillDao;
+	
+	@Test
+	public int testReduceNumber() throws Exception{
+		
+	}
+}

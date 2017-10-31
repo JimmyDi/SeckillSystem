@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SuccessKilledDaoTest" project="ssm" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.di.dao.SuccessKilledDaoTest" time="0.348">
+    <testcase name="insertSuccessKilled" classname="com.di.dao.SuccessKilledDaoTest" time="0.346"/>
+    <testcase name="queryByIdWithSeckill" classname="com.di.dao.SuccessKilledDaoTest" time="0.002"/>
+  </testsuite>
+</testrun>

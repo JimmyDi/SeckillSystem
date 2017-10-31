@@ -1,0 +1,21 @@
+package com.di.dao;
+
+import java.util.Date;
+
+import org.junit.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+
+public class SeckillDaoTest{
+	@Test
+	public void reduceNumber() throws Exception{
+		
+	}
+	@Test
+	public void queryById() throws Exception{
+		
+	}
+	@Test
+	public void queryAll() throws Exception{
+		
+	}
+}

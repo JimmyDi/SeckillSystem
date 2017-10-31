@@ -1,0 +1,12 @@
+package com.di.entity;
+
+import java.util.Date;
+
+public class Seckill{
+	private long seckill_id;
+	private String name;
+	private int number;
+	private Date startTime;
+	private Date endTime;
+	private Date createTime;
+}

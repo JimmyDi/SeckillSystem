@@ -1,0 +1,10 @@
+package com.di.dao;
+
+import com.di.entity.SuccessKilled;
+
+public interface SuccessKilledDao{
+	//insert details of buying
+	int insertSuccessKilled(long seckillId, long userPhone);
+	//get Successkilled object by product id
+	SuccessKilled queryByIdWithSeckill(long seckillId,long userPhone);
+}
