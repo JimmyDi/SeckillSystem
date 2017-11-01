@@ -1,0 +1,16 @@
+package com.di.web;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.di.service.SeckillService;
+
+@Component
+@RequestMapping("/seckill")
+public class SeckillController{
+	@Autowired
+	private SeckillService seckillService;
+	
+	@RequestMapping(value = "/list",method = RequestMethod.GET)
+}
