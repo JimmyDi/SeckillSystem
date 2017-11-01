@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="SeckillDaoTest" project="ssm" tests="3" started="3" failures="0" errors="0" ignored="0">
-  <testsuite name="com.di.dao.SeckillDaoTest" time="0.504">
-    <testcase name="queryById" classname="com.di.dao.SeckillDaoTest" time="0.485"/>
-    <testcase name="queryAll" classname="com.di.dao.SeckillDaoTest" time="0.016"/>
-    <testcase name="reduceNumber" classname="com.di.dao.SeckillDaoTest" time="0.002"/>
-  </testsuite>
-</testrun>

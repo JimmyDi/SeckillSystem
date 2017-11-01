@@ -1,0 +1,57 @@
+package com.di.service.impl;
+
+import java.util.Date;
+import java.util.List;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.di.dao.SeckillDao;
+import com.di.dao.SuccessKilledDao;
+import com.di.dto.Exposer;
+import com.di.entity.Seckill;
+import com.di.service.*;
+
+public class SeckillServiceImpl implements SeckillService{
+	private Logger logger = LoggerFactory.getLogger(this.getClass());
+	//salt for encryption
+	private final String salt = "shsdssljdd'l.";
+	
+	@Autowired
+	private SeckillDao seckillDao;
+	
+	@Autowired
+	private SuccessKilledDao successKilledDao;
+	
+	public List<Seckill> getSeckillList(){
+		return seckillDao.queryAll(0,4);
+	}
+	
+	public Seckill getById(long seckillId){
+		return seckillDao.queryById(seckillId);
+	}
+	
+	public Exposer exportSeckillUrl(long seckillId){
+		Seckill seckill = seckillDao.queryById(seckillId);
+		if(seckill == null)//cannot find the detail of the prodect
+		{
+			return new Exposer(false,seckillId);
+		}
+		// seckill has not been launched yet
+		Date startTime = seckill.getStartTime();
+		Date endTime = seckill.getEndTime();
+		
+		Date nowTime = new Date();
+		if(startTime.getTime()>nowTime.getTime()||endTime.getTime()<nowTime.getTime())
+		{
+			return new Exposer(false,seckillId,nowTime.getTime(),startTime.getTime(),endTime.getTime());
+		}
+		
+	}
+}
+
+
+
+
+

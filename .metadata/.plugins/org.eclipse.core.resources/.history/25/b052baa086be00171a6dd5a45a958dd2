@@ -1,0 +1,12 @@
+package com.di.dto;
+
+public class SeckillExecution {
+	
+	//
+	private long seckillId;
+	//the state of seckill
+	private int state;
+	
+	private String stateInfo;
+	
+}
