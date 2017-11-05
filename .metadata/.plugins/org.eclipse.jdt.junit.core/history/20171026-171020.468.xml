@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="BookDaoTest" project="ssm" tests="3" started="3" failures="0" errors="0" ignored="0">
-  <testsuite name="com.soecode.lyf.dao.BookDaoTest" time="0.528">
-    <testcase name="testQueryById" classname="com.soecode.lyf.dao.BookDaoTest" time="0.513"/>
-    <testcase name="testQueryAll" classname="com.soecode.lyf.dao.BookDaoTest" time="0.01"/>
-    <testcase name="testReduceNumber" classname="com.soecode.lyf.dao.BookDaoTest" time="0.005"/>
-  </testsuite>
-</testrun>
