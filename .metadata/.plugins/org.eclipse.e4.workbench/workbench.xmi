@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_I-MGML9MEeexfavSJuTYgg" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_I-MtQL9MEeexfavSJuTYgg" bindingContexts="_I-PKjb9MEeexfavSJuTYgg">
+<<<<<<< HEAD
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SeckillDao.java&quot; tooltip=&quot;seckill/src/main/java/com/di/dao/SeckillDao.java&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/java/com/di/dao/SeckillDao.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;head.jsp&quot; tooltip=&quot;seckill/src/main/webapp/WEB-INF/jsp/common/head.jsp&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/webapp/WEB-INF/jsp/common/head.jsp&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;tag.jsp&quot; tooltip=&quot;seckill/src/main/webapp/WEB-INF/jsp/common/tag.jsp&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/webapp/WEB-INF/jsp/common/tag.jsp&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;detail.jsp&quot; tooltip=&quot;seckill/src/main/webapp/WEB-INF/jsp/detail.jsp&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/webapp/WEB-INF/jsp/detail.jsp&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;list.jsp&quot; tooltip=&quot;seckill/src/main/webapp/WEB-INF/jsp/list.jsp&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/webapp/WEB-INF/jsp/list.jsp&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.jsdt.ui.CompilationUnitEditor&quot; name=&quot;seckill.js&quot; tooltip=&quot;seckill/src/main/webapp/resource/script/seckill.js&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/webapp/resource/script/seckill.js&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;index.jsp&quot; tooltip=&quot;seckill/src/main/webapp/index.jsp&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/webapp/index.jsp&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;web.xml&quot; tooltip=&quot;seckill/src/main/webapp/WEB-INF/web.xml&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/webapp/WEB-INF/web.xml&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;spring-web.xml&quot; tooltip=&quot;seckill/src/main/resources/spring/spring-web.xml&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/resources/spring/spring-web.xml&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.wst.server.ui.editor.input.factory&quot; id=&quot;org.eclipse.wst.server.ui.editor&quot; name=&quot;Tomcat v8.0 Server at localhost&quot; tooltip=&quot;Tomcat v8.0 Server at localhost&quot;>&#xA;&lt;persistable server-id=&quot;Tomcat v8.0 Server at localhost&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SeckillController.java&quot; tooltip=&quot;seckill/src/main/java/com/di/web/SeckillController.java&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/java/com/di/web/SeckillController.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SeckillStatEnum.java&quot; tooltip=&quot;seckill/src/main/java/com/di/enums/SeckillStatEnum.java&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/java/com/di/enums/SeckillStatEnum.java&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
+=======
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SeckillDaoTest.java&quot; tooltip=&quot;seckill/src/main/java/com/di/dao/SeckillDaoTest.java&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/java/com/di/dao/SeckillDaoTest.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SeckillDao.java&quot; tooltip=&quot;seckill/src/main/java/com/di/dao/SeckillDao.java&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/java/com/di/dao/SeckillDao.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SeckillServiceImpl.java&quot; tooltip=&quot;seckill/src/main/java/com/di/service/impl/SeckillServiceImpl.java&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/java/com/di/service/impl/SeckillServiceImpl.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SeckillServiceTest.java&quot; tooltip=&quot;seckill/src/main/java/com/di/service/impl/SeckillServiceTest.java&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/java/com/di/service/impl/SeckillServiceTest.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SeckillService.java&quot; tooltip=&quot;seckill/src/main/java/com/di/service/SeckillService.java&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/java/com/di/service/SeckillService.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SeckillController.java&quot; tooltip=&quot;seckill/src/main/java/com/di/web/SeckillController.java&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/java/com/di/web/SeckillController.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;SeckillDao.xml&quot; tooltip=&quot;seckill/src/main/resources/mapper/SeckillDao.xml&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/resources/mapper/SeckillDao.xml&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SuccessKilledDaoTest.java&quot; tooltip=&quot;seckill/src/main/java/com/di/dao/SuccessKilledDaoTest.java&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/java/com/di/dao/SuccessKilledDaoTest.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SuccessKilledDao.java&quot; tooltip=&quot;seckill/src/main/java/com/di/dao/SuccessKilledDao.java&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/java/com/di/dao/SuccessKilledDao.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;list.jsp&quot; tooltip=&quot;seckill/src/main/webapp/WEB-INF/jsp/list.jsp&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/webapp/WEB-INF/jsp/list.jsp&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.jsdt.ui.CompilationUnitEditor&quot; name=&quot;seckill.js&quot; tooltip=&quot;seckill/src/main/webapp/resource/seckill.js&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/webapp/resource/seckill.js&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;detail.jsp&quot; tooltip=&quot;seckill/src/main/webapp/WEB-INF/jsp/detail.jsp&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/webapp/WEB-INF/jsp/detail.jsp&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.jsdt.ui.CompilationUnitEditor&quot; name=&quot;seckill.js&quot; tooltip=&quot;seckill/src/main/webapp/resource/script/seckill.js&quot;>&#xA;&lt;persistable path=&quot;/seckill/src/main/webapp/resource/script/seckill.js&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
+>>>>>>> seckill
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_I-MtQL9MEeexfavSJuTYgg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_I-MtQb9MEeexfavSJuTYgg" label="%trimmedwindow.label.eclipseSDK" x="0" y="24" width="1261" height="768">
@@ -78,17 +82,29 @@
               <children xsi:type="advanced:Placeholder" xmi:id="_I-MtSL9MEeexfavSJuTYgg" elementId="org.eclipse.jdt.ui.TypeHierarchy" toBeRendered="false" ref="_I-NUtb9MEeexfavSJuTYgg"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_I-MtSb9MEeexfavSJuTYgg" elementId="org.eclipse.jdt.ui.PackagesView" toBeRendered="false" ref="_I-NUtr9MEeexfavSJuTYgg"/>
             </children>
+<<<<<<< HEAD
             <children xsi:type="basic:PartSashContainer" xmi:id="_I-MtSr9MEeexfavSJuTYgg" containerData="8287" selectedElement="_I-MtS79MEeexfavSJuTYgg">
               <children xsi:type="basic:PartSashContainer" xmi:id="_I-MtS79MEeexfavSJuTYgg" containerData="6877" selectedElement="_I-MtTL9MEeexfavSJuTYgg" horizontal="true">
+=======
+            <children xsi:type="basic:PartSashContainer" xmi:id="_I-MtSr9MEeexfavSJuTYgg" containerData="8287" selectedElement="_I-MtUL9MEeexfavSJuTYgg">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_I-MtS79MEeexfavSJuTYgg" containerData="6701" selectedElement="_I-MtTL9MEeexfavSJuTYgg" horizontal="true">
+>>>>>>> seckill
                 <children xsi:type="advanced:Placeholder" xmi:id="_I-MtTL9MEeexfavSJuTYgg" elementId="org.eclipse.ui.editorss" containerData="7959" ref="_I-Mumb9MEeexfavSJuTYgg"/>
                 <children xsi:type="basic:PartStack" xmi:id="_I-MtTb9MEeexfavSJuTYgg" elementId="topRight" containerData="2041" selectedElement="_I-MtTr9MEeexfavSJuTYgg">
                   <children xsi:type="advanced:Placeholder" xmi:id="_I-MtTr9MEeexfavSJuTYgg" elementId="org.eclipse.ui.views.ContentOutline" ref="_I-N7gb9MEeexfavSJuTYgg"/>
                   <children xsi:type="advanced:Placeholder" xmi:id="_I-MtT79MEeexfavSJuTYgg" elementId="org.eclipse.mylyn.tasks.ui.views.tasks" ref="_I-N7qL9MEeexfavSJuTYgg"/>
                 </children>
               </children>
+<<<<<<< HEAD
               <children xsi:type="basic:PartStack" xmi:id="_I-MtUL9MEeexfavSJuTYgg" elementId="bottomRight" containerData="3123" selectedElement="_I-MtU79MEeexfavSJuTYgg">
                 <tags>Java</tags>
                 <tags>Debug</tags>
+=======
+              <children xsi:type="basic:PartStack" xmi:id="_I-MtUL9MEeexfavSJuTYgg" elementId="bottomRight" containerData="3299" selectedElement="_I-MtU79MEeexfavSJuTYgg">
+                <tags>Java</tags>
+                <tags>Debug</tags>
+                <tags>active</tags>
+>>>>>>> seckill
                 <children xsi:type="advanced:Placeholder" xmi:id="_I-MtUb9MEeexfavSJuTYgg" elementId="org.eclipse.ui.views.AllMarkersView" ref="_I-NUt79MEeexfavSJuTYgg"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_I-MtUr9MEeexfavSJuTYgg" elementId="org.eclipse.ui.views.PropertySheet" ref="_I-NUx79MEeexfavSJuTYgg"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_I-MtU79MEeexfavSJuTYgg" elementId="org.eclipse.wst.server.ui.ServersView" ref="_I-NUyL9MEeexfavSJuTYgg"/>
@@ -219,6 +235,7 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_I-Mumb9MEeexfavSJuTYgg" elementId="org.eclipse.ui.editorss" selectedElement="_I-Mumr9MEeexfavSJuTYgg">
+<<<<<<< HEAD
       <children xsi:type="basic:PartStack" xmi:id="_I-Mumr9MEeexfavSJuTYgg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_VRVigMJwEeedGdRj6nkkpA">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
@@ -231,34 +248,86 @@
         </children>
         <children xsi:type="basic:Part" xmi:id="_qhcKcMJtEee6lJr4ztyNdQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="tag.jsp" iconURI="platform:/plugin/org.eclipse.jst.jsp.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;tag.jsp&quot; partName=&quot;tag.jsp&quot; title=&quot;tag.jsp&quot; tooltip=&quot;seckill/src/main/webapp/WEB-INF/jsp/common/tag.jsp&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/webapp/WEB-INF/jsp/common/tag.jsp&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jst.jsp.core.jspsource.source</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_qwM_MMJtEee6lJr4ztyNdQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="detail.jsp" iconURI="platform:/plugin/org.eclipse.jst.jsp.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;detail.jsp&quot; partName=&quot;detail.jsp&quot; title=&quot;detail.jsp&quot; tooltip=&quot;seckill/src/main/webapp/WEB-INF/jsp/detail.jsp&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/webapp/WEB-INF/jsp/detail.jsp&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2654&quot; selectionTopPixel=&quot;1391&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jst.jsp.core.jspsource.source</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_LzSloMJuEee6lJr4ztyNdQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="list.jsp" iconURI="platform:/plugin/org.eclipse.jst.jsp.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;list.jsp&quot; partName=&quot;list.jsp&quot; title=&quot;list.jsp&quot; tooltip=&quot;seckill/src/main/webapp/WEB-INF/jsp/list.jsp&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/webapp/WEB-INF/jsp/list.jsp&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;81&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1893&quot; selectionTopPixel=&quot;656&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jst.jsp.core.jspsource.source</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_he2TIMJuEee6lJr4ztyNdQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="index.jsp" iconURI="platform:/plugin/org.eclipse.jst.jsp.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;index.jsp&quot; partName=&quot;index.jsp&quot; title=&quot;index.jsp&quot; tooltip=&quot;seckill/src/main/webapp/index.jsp&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/webapp/index.jsp&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jst.jsp.core.jspsource.source</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_iRQAcMJuEee6lJr4ztyNdQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="seckill.js" iconURI="platform:/plugin/org.eclipse.wst.jsdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.jsdt.ui.CompilationUnitEditor&quot; name=&quot;seckill.js&quot; partName=&quot;seckill.js&quot; title=&quot;seckill.js&quot; tooltip=&quot;seckill/src/main/webapp/resource/script/seckill.js&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/webapp/resource/script/seckill.js&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;5596&quot; selectionTopPixel=&quot;571&quot;/>&#xA;&lt;/editor>"/>
+=======
+      <children xsi:type="basic:PartStack" xmi:id="_I-Mumr9MEeexfavSJuTYgg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_DdJOgMJ4EeekQKw_ftebdA">
+        <tags>org.eclipse.e4.primaryDataStack</tags>
+        <tags>EditorStack</tags>
+        <children xsi:type="basic:Part" xmi:id="_KBeJEMJ2EeekQKw_ftebdA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="seckill.js" iconURI="platform:/plugin/org.eclipse.wst.jsdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.jsdt.ui.CompilationUnitEditor&quot; name=&quot;seckill.js&quot; partName=&quot;seckill.js&quot; title=&quot;seckill.js&quot; tooltip=&quot;seckill/src/main/webapp/resource/seckill.js&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/webapp/resource/seckill.js&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.wst.jsdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
         </children>
+        <children xsi:type="basic:Part" xmi:id="_Ki2X0MJ2EeekQKw_ftebdA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="detail.jsp" iconURI="platform:/plugin/org.eclipse.jst.jsp.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;detail.jsp&quot; partName=&quot;detail.jsp&quot; title=&quot;detail.jsp&quot; tooltip=&quot;seckill/src/main/webapp/WEB-INF/jsp/detail.jsp&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/webapp/WEB-INF/jsp/detail.jsp&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;247&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jst.jsp.core.jspsource.source</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_h-zr8MJ2EeekQKw_ftebdA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="list.jsp" iconURI="platform:/plugin/org.eclipse.jst.jsp.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;list.jsp&quot; partName=&quot;list.jsp&quot; title=&quot;list.jsp&quot; tooltip=&quot;seckill/src/main/webapp/WEB-INF/jsp/list.jsp&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/webapp/WEB-INF/jsp/list.jsp&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;563&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jst.jsp.core.jspsource.source</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_-J1h0MJ3EeekQKw_ftebdA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SeckillController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SeckillController.java&quot; partName=&quot;SeckillController.java&quot; title=&quot;SeckillController.java&quot; tooltip=&quot;seckill/src/main/java/com/di/web/SeckillController.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/java/com/di/web/SeckillController.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;10&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_Aih3gMJ4EeekQKw_ftebdA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SeckillService.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SeckillService.java&quot; partName=&quot;SeckillService.java&quot; title=&quot;SeckillService.java&quot; tooltip=&quot;seckill/src/main/java/com/di/service/SeckillService.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/java/com/di/service/SeckillService.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+>>>>>>> seckill
+          <tags>Editor</tags>
+          <tags>org.eclipse.jst.jsp.core.jspsource.source</tags>
+          <tags>removeOnHide</tags>
+        </children>
+<<<<<<< HEAD
+        <children xsi:type="basic:Part" xmi:id="_qwM_MMJtEee6lJr4ztyNdQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="detail.jsp" iconURI="platform:/plugin/org.eclipse.jst.jsp.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;detail.jsp&quot; partName=&quot;detail.jsp&quot; title=&quot;detail.jsp&quot; tooltip=&quot;seckill/src/main/webapp/WEB-INF/jsp/detail.jsp&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/webapp/WEB-INF/jsp/detail.jsp&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2654&quot; selectionTopPixel=&quot;1391&quot;/>&#xA;&lt;/editor>"/>
+=======
+        <children xsi:type="basic:Part" xmi:id="_BrGCEMJ4EeekQKw_ftebdA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SeckillServiceImpl.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SeckillServiceImpl.java&quot; partName=&quot;SeckillServiceImpl.java&quot; title=&quot;SeckillServiceImpl.java&quot; tooltip=&quot;seckill/src/main/java/com/di/service/impl/SeckillServiceImpl.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/java/com/di/service/impl/SeckillServiceImpl.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;9&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1132&quot; selectionTopPixel=&quot;225&quot;/>&#xA;&lt;/editor>"/>
+>>>>>>> seckill
+          <tags>Editor</tags>
+          <tags>org.eclipse.jst.jsp.core.jspsource.source</tags>
+          <tags>removeOnHide</tags>
+        </children>
+<<<<<<< HEAD
+        <children xsi:type="basic:Part" xmi:id="_LzSloMJuEee6lJr4ztyNdQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="list.jsp" iconURI="platform:/plugin/org.eclipse.jst.jsp.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;list.jsp&quot; partName=&quot;list.jsp&quot; title=&quot;list.jsp&quot; tooltip=&quot;seckill/src/main/webapp/WEB-INF/jsp/list.jsp&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/webapp/WEB-INF/jsp/list.jsp&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;81&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1893&quot; selectionTopPixel=&quot;656&quot;/>&#xA;&lt;/editor>"/>
+=======
+        <children xsi:type="basic:Part" xmi:id="_DdJOgMJ4EeekQKw_ftebdA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SeckillDaoTest.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SeckillDaoTest.java&quot; partName=&quot;SeckillDaoTest.java&quot; title=&quot;SeckillDaoTest.java&quot; tooltip=&quot;seckill/src/main/java/com/di/dao/SeckillDaoTest.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/java/com/di/dao/SeckillDaoTest.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;6&quot; selectionOffset=&quot;1050&quot; selectionTopPixel=&quot;375&quot;/>&#xA;&lt;/editor>"/>
+>>>>>>> seckill
+          <tags>Editor</tags>
+          <tags>org.eclipse.jst.jsp.core.jspsource.source</tags>
+          <tags>removeOnHide</tags>
+        </children>
+<<<<<<< HEAD
+        <children xsi:type="basic:Part" xmi:id="_he2TIMJuEee6lJr4ztyNdQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="index.jsp" iconURI="platform:/plugin/org.eclipse.jst.jsp.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;index.jsp&quot; partName=&quot;index.jsp&quot; title=&quot;index.jsp&quot; tooltip=&quot;seckill/src/main/webapp/index.jsp&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/webapp/index.jsp&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+=======
+        <children xsi:type="basic:Part" xmi:id="_Dn8wUMJ4EeekQKw_ftebdA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SuccessKilledDao.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SuccessKilledDao.java&quot; partName=&quot;SuccessKilledDao.java&quot; title=&quot;SuccessKilledDao.java&quot; tooltip=&quot;seckill/src/main/java/com/di/dao/SuccessKilledDao.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/java/com/di/dao/SuccessKilledDao.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+>>>>>>> seckill
+          <tags>Editor</tags>
+          <tags>org.eclipse.jst.jsp.core.jspsource.source</tags>
+          <tags>removeOnHide</tags>
+        </children>
+<<<<<<< HEAD
+        <children xsi:type="basic:Part" xmi:id="_iRQAcMJuEee6lJr4ztyNdQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="seckill.js" iconURI="platform:/plugin/org.eclipse.wst.jsdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.jsdt.ui.CompilationUnitEditor&quot; name=&quot;seckill.js&quot; partName=&quot;seckill.js&quot; title=&quot;seckill.js&quot; tooltip=&quot;seckill/src/main/webapp/resource/script/seckill.js&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/webapp/resource/script/seckill.js&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;5596&quot; selectionTopPixel=&quot;571&quot;/>&#xA;&lt;/editor>"/>
+=======
+        <children xsi:type="basic:Part" xmi:id="_DzUS0MJ4EeekQKw_ftebdA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SuccessKilledDaoTest.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SuccessKilledDaoTest.java&quot; partName=&quot;SuccessKilledDaoTest.java&quot; title=&quot;SuccessKilledDaoTest.java&quot; tooltip=&quot;seckill/src/main/java/com/di/dao/SuccessKilledDaoTest.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/java/com/di/dao/SuccessKilledDaoTest.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+>>>>>>> seckill
+          <tags>Editor</tags>
+          <tags>org.eclipse.wst.jsdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+<<<<<<< HEAD
         <children xsi:type="basic:Part" xmi:id="_VRVigMJwEeedGdRj6nkkpA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SeckillDao.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SeckillDao.java&quot; partName=&quot;SeckillDao.java&quot; title=&quot;SeckillDao.java&quot; tooltip=&quot;seckill/src/main/java/com/di/dao/SeckillDao.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/java/com/di/dao/SeckillDao.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
@@ -266,13 +335,36 @@
           <tags>removeOnHide</tags>
           <tags>active</tags>
           <tags>activeOnClose</tags>
+=======
+        <children xsi:type="basic:Part" xmi:id="_JEXVsMJ4EeekQKw_ftebdA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SeckillDao.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SeckillDao.java&quot; partName=&quot;SeckillDao.java&quot; title=&quot;SeckillDao.java&quot; tooltip=&quot;seckill/src/main/java/com/di/dao/SeckillDao.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/java/com/di/dao/SeckillDao.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;50&quot; selectionOffset=&quot;413&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_O6k7IMJ4EeekQKw_ftebdA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SeckillDao.xml" iconURI="platform:/plugin/org.eclipse.wst.xml.ui/icons/xmldoc.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;SeckillDao.xml&quot; partName=&quot;SeckillDao.xml&quot; title=&quot;SeckillDao.xml&quot; tooltip=&quot;seckill/src/main/resources/mapper/SeckillDao.xml&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/resources/mapper/SeckillDao.xml&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;551&quot; selectionTopPixel=&quot;183&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_Skb9wMJ4EeekQKw_ftebdA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SeckillServiceTest.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SeckillServiceTest.java&quot; partName=&quot;SeckillServiceTest.java&quot; title=&quot;SeckillServiceTest.java&quot; tooltip=&quot;seckill/src/main/java/com/di/service/impl/SeckillServiceTest.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/seckill/src/main/java/com/di/service/impl/SeckillServiceTest.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+>>>>>>> seckill
         </children>
       </children>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_I-Mum79MEeexfavSJuTYgg" elementId="org.eclipse.ui.navigator.ProjectExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.gif" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.navigator.resources.ProjectExplorer"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.navigator.resources"/>
+<<<<<<< HEAD
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;/>"/>
+=======
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1509570212229&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;/>"/>
+>>>>>>> seckill
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <menus xmi:id="_I-MunL9MEeexfavSJuTYgg" elementId="org.eclipse.ui.navigator.ProjectExplorer">
@@ -338,6 +430,11 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot;/>"/>
       <tags>View</tags>
       <tags>categoryTag:Server</tags>
+<<<<<<< HEAD
+=======
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
+>>>>>>> seckill
       <menus xmi:id="_I-NUyb9MEeexfavSJuTYgg" elementId="org.eclipse.wst.server.ui.ServersView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -390,6 +487,10 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+<<<<<<< HEAD
+=======
+      <tags>highlighted</tags>
+>>>>>>> seckill
       <menus xmi:id="_I-N7bb9MEeexfavSJuTYgg" elementId="org.eclipse.ui.console.ConsoleView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -442,6 +543,10 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view failuresOnly=&quot;false&quot; ignoredOnly=&quot;false&quot; layout=&quot;1&quot; orientation=&quot;2&quot; ratio=&quot;500&quot; scroll=&quot;false&quot; time=&quot;true&quot;/>"/>
       <tags>View</tags>
       <tags>categoryTag:Java</tags>
+<<<<<<< HEAD
+=======
+      <tags>highlighted</tags>
+>>>>>>> seckill
       <menus xmi:id="_I-N7qr9MEeexfavSJuTYgg" elementId="org.eclipse.jdt.junit.ResultView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -461,6 +566,7 @@
       <menus xmi:id="_PnE5UMBKEeeA8PylT6tceg" elementId="org.eclipse.debug.ui.DebugView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
+<<<<<<< HEAD
       </menus>
       <toolbar xmi:id="_PnE5UcBKEeeA8PylT6tceg" elementId="org.eclipse.debug.ui.DebugView"/>
     </sharedElements>
@@ -476,6 +582,23 @@
       </menus>
       <toolbar xmi:id="_dakNUcHJEeeL4Y1Juje7Bw" elementId="org.eclipse.debug.ui.VariableView"/>
     </sharedElements>
+=======
+      </menus>
+      <toolbar xmi:id="_PnE5UcBKEeeA8PylT6tceg" elementId="org.eclipse.debug.ui.DebugView"/>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_dXmY4MHJEeeL4Y1Juje7Bw" elementId="org.eclipse.debug.ui.VariableView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Variables" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/variable_view.png" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.debug.ui"/>
+      <persistedState key="originalCompatibilityViewClass" value="org.eclipse.debug.internal.ui.views.variables.VariablesView"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:Debug</tags>
+      <menus xmi:id="_dakNUMHJEeeL4Y1Juje7Bw" elementId="org.eclipse.debug.ui.VariableView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_dakNUcHJEeeL4Y1Juje7Bw" elementId="org.eclipse.debug.ui.VariableView"/>
+    </sharedElements>
+>>>>>>> seckill
     <sharedElements xsi:type="basic:Part" xmi:id="_dXm_8MHJEeeL4Y1Juje7Bw" elementId="org.eclipse.debug.ui.BreakpointView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Breakpoints" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/breakpoint_view.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.debug.ui"/>
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.debug.internal.ui.views.breakpoints.BreakpointsView"/>
@@ -543,7 +666,11 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_I-N7xb9MEeexfavSJuTYgg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
+<<<<<<< HEAD
         <children xsi:type="menu:HandledToolItem" xmi:id="_Qf5z0MJwEeedGdRj6nkkpA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_I-Tcbr9MEeexfavSJuTYgg"/>
+=======
+        <children xsi:type="menu:HandledToolItem" xmi:id="_0ykbAMJ4EeeSTuz6r6cIfQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_I-Tcbr9MEeexfavSJuTYgg"/>
+>>>>>>> seckill
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_I-N70r9MEeexfavSJuTYgg" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -561,7 +688,11 @@
       <children xsi:type="menu:ToolBar" xmi:id="_I-N8HL9MEeexfavSJuTYgg" elementId="org.eclipse.search.searchActionSet">
         <tags>Draggable</tags>
       </children>
+<<<<<<< HEAD
       <children xsi:type="menu:ToolBar" xmi:id="_I-N8Ib9MEeexfavSJuTYgg" elementId="org.eclipse.ui.edit.text.actionSet.presentation">
+=======
+      <children xsi:type="menu:ToolBar" xmi:id="_I-N8Ib9MEeexfavSJuTYgg" elementId="org.eclipse.ui.edit.text.actionSet.presentation" visible="false">
+>>>>>>> seckill
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_I-N8Kr9MEeexfavSJuTYgg" elementId="org.eclipse.wst.server.ui.internal.webbrowser.actionSet">
@@ -576,7 +707,11 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_I-N8Mr9MEeexfavSJuTYgg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
+<<<<<<< HEAD
         <children xsi:type="menu:HandledToolItem" xmi:id="_Qf-FQMJwEeedGdRj6nkkpA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_I-TcE79MEeexfavSJuTYgg"/>
+=======
+        <children xsi:type="menu:HandledToolItem" xmi:id="_0yoscMJ4EeeSTuz6r6cIfQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_I-TcE79MEeexfavSJuTYgg"/>
+>>>>>>> seckill
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_I-N8PL9MEeexfavSJuTYgg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -604,6 +739,7 @@
         <tags>stretch</tags>
       </children>
       <children xsi:type="menu:ToolControl" xmi:id="_I-N8UL9MEeexfavSJuTYgg" elementId="org.eclipse.ui.HeapStatus" toBeRendered="false" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.StandardTrim">
+<<<<<<< HEAD
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolControl" xmi:id="_I-N8Ub9MEeexfavSJuTYgg" elementId="org.eclipse.ui.ProgressBar" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.StandardTrim">
@@ -626,6 +762,34 @@
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolControl" xmi:id="_I-N8Xr9MEeexfavSJuTYgg" elementId="org.eclipse.ui.editorss(IDEWindow).(org.eclipse.jst.j2ee.J2EEPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+=======
+        <tags>Draggable</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_I-N8Ub9MEeexfavSJuTYgg" elementId="org.eclipse.ui.ProgressBar" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.StandardTrim">
+        <tags>Draggable</tags>
+      </children>
+    </trimBars>
+    <trimBars xmi:id="_I-N8Wb9MEeexfavSJuTYgg" elementId="org.eclipse.ui.trim.vertical1" toBeRendered="false" side="Left">
+      <children xsi:type="menu:ToolControl" xmi:id="_I-N8Wr9MEeexfavSJuTYgg" elementId="topLeft(IDEWindow).(org.eclipse.jst.j2ee.J2EEPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+        <tags>Draggable</tags>
+      </children>
+    </trimBars>
+    <trimBars xmi:id="_I-N8W79MEeexfavSJuTYgg" elementId="org.eclipse.ui.trim.vertical2" toBeRendered="false" side="Right">
+      <children xsi:type="menu:ToolControl" xmi:id="_I-N8XL9MEeexfavSJuTYgg" elementId="org.eclipse.ui.ide.perspectivestack(minimized)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+        <tags>Draggable</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_I-N8Xb9MEeexfavSJuTYgg" elementId="topRight(IDEWindow).(org.eclipse.jst.j2ee.J2EEPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+        <tags>Draggable</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_I-N8Xr9MEeexfavSJuTYgg" elementId="org.eclipse.ui.editorss(IDEWindow).(org.eclipse.jst.j2ee.J2EEPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+        <tags>Draggable</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_VOdbYMJ1EeekQKw_ftebdA" elementId="bottomRight(IDEWindow).(org.eclipse.jst.j2ee.J2EEPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+>>>>>>> seckill
         <tags>TrimStack</tags>
         <tags>Draggable</tags>
       </children>
@@ -1203,7 +1367,11 @@
     <bindings xmi:id="_I-PJ5L9MEeexfavSJuTYgg" keySequence="ALT+COMMAND+X E" command="_I-Tbur9MEeexfavSJuTYgg">
       <tags>platform:cocoa</tags>
     </bindings>
+<<<<<<< HEAD
     <bindings xmi:id="_P97IIcJwEeedGdRj6nkkpA" keySequence="COMMAND+CTRL+F" command="_I-UCjb9MEeexfavSJuTYgg"/>
+=======
+    <bindings xmi:id="_0SUNocJ4EeeSTuz6r6cIfQ" keySequence="COMMAND+CTRL+F" command="_I-UCjb9MEeexfavSJuTYgg"/>
+>>>>>>> seckill
   </bindingTables>
   <bindingTables xmi:id="_I-PJ5r9MEeexfavSJuTYgg" elementId="org.eclipse.mylyn.tasks.ui.views.tasks" bindingContext="_I-PKwb9MEeexfavSJuTYgg">
     <bindings xmi:id="_I-PJ579MEeexfavSJuTYgg" keySequence="ALT+SHIFT+ARROW_DOWN" command="_I-S0ir9MEeexfavSJuTYgg"/>
@@ -1382,7 +1550,11 @@
     <bindings xmi:id="_I-PKV79MEeexfavSJuTYgg" keySequence="COMMAND+F5" command="_I-TbZ79MEeexfavSJuTYgg"/>
   </bindingTables>
   <bindingTables xmi:id="_I-PKWL9MEeexfavSJuTYgg" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_I-PKw79MEeexfavSJuTYgg">
+<<<<<<< HEAD
     <bindings xmi:id="_P97vMMJwEeedGdRj6nkkpA" keySequence="M1+W" command="_I-UCj79MEeexfavSJuTYgg"/>
+=======
+    <bindings xmi:id="_0SU0sMJ4EeeSTuz6r6cIfQ" keySequence="M1+W" command="_I-UCj79MEeexfavSJuTYgg"/>
+>>>>>>> seckill
   </bindingTables>
   <bindingTables xmi:id="_I-PKWr9MEeexfavSJuTYgg" bindingContext="_I-PKzL9MEeexfavSJuTYgg"/>
   <bindingTables xmi:id="_I-PKW79MEeexfavSJuTYgg" bindingContext="_I-PKzb9MEeexfavSJuTYgg"/>

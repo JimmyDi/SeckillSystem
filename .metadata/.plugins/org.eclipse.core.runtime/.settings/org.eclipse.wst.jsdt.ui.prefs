@@ -1,6 +1,10 @@
 eclipse.preferences.version=1
 fontPropagated=true
+<<<<<<< HEAD
 org.eclipse.jface.textfont=1|Monaco|16.0|0|COCOA|1|Monaco;
+=======
+org.eclipse.jface.textfont=1|Monaco|15.0|0|COCOA|1|Monaco;
+>>>>>>> seckill
 org.eclipse.wst.jsdt.internal.ui.navigator.layout=1
 org.eclipse.wst.jsdt.ui.editor.tab.width=
 org.eclipse.wst.jsdt.ui.formatterprofiles.version=11

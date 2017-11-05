@@ -1,3 +1,7 @@
 #Tomcat publish data
+<<<<<<< HEAD
 #Sun Nov 05 16:24:23 EST 2017
+=======
+#Sun Nov 05 17:32:56 EST 2017
+>>>>>>> seckill
 org.eclipse.jst.jee.server\:/binary\:/Users/di/.m2/repository/org/springframework/spring-web/4.1.7.RELEASE/spring-web-4.1.7.RELEASE.jar=WEB-INF/lib/spring-web-4.1.7.RELEASE.jar

@@ -5,7 +5,11 @@
 <head>
     <title>Seckill! Choose you want!</title>
     <%@include file="common/head.jsp" %>
+<<<<<<< HEAD
     <script src="../resource/script/seckill.js" type="text/javascript"></script>
+=======
+    <script src="../resource/seckill.js" type="text/javascript"></script>
+>>>>>>> seckill
 </head>
 <body>
 <div class="container">
@@ -69,7 +73,10 @@
 <%--jQuery countDown plug-in unit--%>
 <script src="http://cdn.bootcss.com/jquery.countdown/2.1.0/jquery.countdown.min.js"></script>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> seckill
 <script type="text/javascript">
     $(function () {
         

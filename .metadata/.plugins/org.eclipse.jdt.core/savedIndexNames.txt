@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 INDEX VERSION 1.130+/Users/di/SpringMVC-Spring-Mybatis/.metadata/.plugins/org.eclipse.jdt.core
 1271342938.index
 124275899.index
@@ -17,3 +18,56 @@ INDEX VERSION 1.130+/Users/di/SpringMVC-Spring-Mybatis/.metadata/.plugins/org.ec
 3334288320.index
 942833444.index
 1888666045.index
+=======
+INDEX VERSION 1.130+/Users/di/Project/.metadata/.plugins/org.eclipse.jdt.core
+310839213.index
+2762063732.index
+4261307685.index
+4148437883.index
+1416793072.index
+2255771374.index
+3853260424.index
+3334288320.index
+3234991687.index
+1342599798.index
+1743089237.index
+1271342938.index
+3474419453.index
+680827947.index
+942833444.index
+3407144077.index
+3659125542.index
+726970831.index
+124275899.index
+294117530.index
+2147526691.index
+1885933108.index
+616408505.index
+2024602245.index
+3720681883.index
+3927758025.index
+2965316913.index
+1774767328.index
+4209616179.index
+2084021475.index
+3158197321.index
+3484117950.index
+502016214.index
+2213356454.index
+2083111038.index
+2132672051.index
+3555792899.index
+1224127047.index
+1635603512.index
+1085587737.index
+1302770079.index
+1499520195.index
+1823585051.index
+2494446830.index
+3396667866.index
+3125510008.index
+2227556227.index
+1888666045.index
+893050386.index
+1999298954.index
+>>>>>>> seckill
