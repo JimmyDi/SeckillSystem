@@ -1,7 +1,0 @@
-package com.di.entity;
-
-import java.util.Date;
-
-public class Orders{
-	
-}

@@ -1,5 +1,0 @@
-package com.di.service.impl;
-
-public class SeckillServiceImpl implements SeckillService{
-	
-}

@@ -1,6 +1,0 @@
-package com.di.dao;
-
-public interface SuccessKilledDao{
-	//insert details of buying
-	int insertSuccessKilled(long seckillId, long userPhone);
-}

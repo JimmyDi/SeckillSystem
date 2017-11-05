@@ -1,9 +1,0 @@
-package com.di.dao;
-
-import java.util.Date;
-
-public interface SeckillDao
-{
-	//decrease number of products in stock
-	int reduceNumber(long seckillId,Date killTime);
-}

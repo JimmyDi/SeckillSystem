@@ -1,7 +1,0 @@
-package com.di.dao;
-
-import com.di.BaseTest;
-
-public class SeckillDaoTest extends BaseTest{
-	
-}
