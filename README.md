@@ -1,6 +1,4 @@
-# SpringMVC-Spring-Mybatis
-Build a back-end on the server based on SSM(SpringMVC-Spring-MyBatis) framework.
-Build the database by MySQL
-Apply Maven to build the project
-Apply JUnit to do unit test
-The Workplace is the file named ssm
+# Seckill System based on MVC pattern
+
+Hey guys, here is a project I am doing recently. I am willing to share it with you.
+Basically, this project is a seckill system, involving in Spring MVC, Spring , Mybatis Back-end framework technology.
